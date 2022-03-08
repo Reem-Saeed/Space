@@ -1,0 +1,72 @@
+body{
+    background-image: url("Pictur/background-home-desktop.jpg");
+    background-repeat: no-repeat;
+}
+.navbar{
+    width: 60%;
+    height: 3%;
+    float: right;
+    background-color:#0b0d17, #c7cbe0 ;
+    padding: 15px ;
+    margin: 15px;
+    
+    
+}
+.navbar a{
+    float: right;
+    text-decoration:none;
+    display:block;
+    text-align: center;
+    padding: 20px 30px ;
+    color:#d0d6f9;
+    font-family:'Barlow';
+    font-size: 18px; 
+}
+.navbar a:hover{
+    border-bottom: solid 2px white;
+}
+/* #first{
+
+    border-bottom: solid 2px white;  
+} */
+ .line{
+       
+    padding: 3%;
+    color: gray;
+
+} 
+.logo{
+    float:left;
+    padding: 15px ;
+    margin: 15px;
+}
+ .pargraf{
+     padding: 150px  ;  
+     width: 50%; 
+
+} 
+ #so{
+    color: #d0d6f9;
+    font-family:'Barlow', sans-serif;
+    font-size: 20px;
+    letter-spacing: 3px;
+}   
+#secparg{
+     font-family:'Bellefair', serif;
+     color: #ffffff;
+     letter-spacing: 2px;
+     font-size: 145px;
+        }
+
+#lets{
+  color: #d0d6f9;  
+  font-family:'Barlow', sans-serif;
+  font-size: 18px;
+}
+.circl{
+    float: right;
+    padding: 260px 150px;
+    font-family:'Bellefair', serif;
+    letter-spacing: 2px;
+    color: #d0d6f9;
+}

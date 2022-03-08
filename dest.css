@@ -1,0 +1,84 @@
+body{
+    background-image:url("Pictur/background-destination-desktop.jpg");
+    background-repeat: no-repeat;
+}
+.navbar{
+    width: 50%;
+    height: 3%;
+    float: right;
+    background-color:#0b0d17 ;
+    padding: 15px ;
+    margin: 15px;
+    
+    
+}
+.navbar a{
+    float: right;
+    text-decoration:none;
+    display:block;
+    text-align: center;
+    padding: 20px 30px ;
+    color:#d0d6f9;
+    font-family:'Barlow';
+    font-size: 18px; 
+}
+.navbar a:hover{
+    border-bottom: solid 2px white;
+}
+.line{
+       
+    padding: 3%;
+    color: gray;
+
+} 
+.logo{
+    float:left;
+    padding: 0% ;
+    margin: -0.5%;
+}
+.pick{
+    color:white;
+    font-family:'Barlow';
+    font-size: 18px;
+    padding: 5% 8%;
+}
+.imag{
+    width: 300px;
+    padding: 5% 3%;
+}
+.secnav{
+    width: 40%;
+    height:5%;
+    float: right;
+    background-color:#0b0d17,d0d6f9 ;
+    padding: 50px ;
+    margin: 20px;
+}
+.secnav a{
+    float: right;
+    text-decoration:none;
+    display:block;
+    text-align: center;
+    padding: 20px 30px ;
+    color:white;
+    font-family:'Barlow';
+    font-size: 18px; 
+}
+.secnav a:hover{
+    border-bottom: solid 2px white;
+}
+#par{
+    font-family:'Bellefair', serif;
+    color: #ffffff;
+    letter-spacing: 2px;
+    font-size: 120px;
+    padding: 25% ;
+    margin: 15px;
+}
+#dont{
+    color: #d0d6f9;  
+    font-family:'Barlow', sans-serif;
+    font-size: 18px;
+    padding: 0% ;
+    margin: 95px;
+}
